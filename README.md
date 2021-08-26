@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">I'm working towards being a Python Programmer(with a interest in Java) and Machine Learning Engineer</h3>
+<h3 align="center">I'm working towards being a Python Programmer(with a special interest in Java) and Machine Learning Engineer</h3>
 
 - 🌱 I’m currently learning **Django, React, Docker, Spring**
 
