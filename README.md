@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">I'm working towards being a Python Programmer(with a special interest in Java) and Machine Learning Engineer</h3>
 
-- 🌱 I’m currently learning **Statistics and Machine Learning**
+- 🌱 I’m currently learning **Power BI and Machine Learning**
 
 
 <h3 align="left">Languages and Tools:</h3>
