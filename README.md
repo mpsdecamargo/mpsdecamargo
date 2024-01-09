@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
+
+
 <h3 align="center">I'm working towards being a Data Scientist and Machine Learning Engineer</h3>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and AWS Cloud Services**
+
+![](https://komarev.com/ghpvc/?mpsdecamargo&color=blue)
 
 
 <h3 align="left">Languages and Tools:</h3>
