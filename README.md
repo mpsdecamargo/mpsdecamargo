@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and AWS Cloud Services**
 
-![](https://komarev.com/ghpvc/?mpsdecamargo&color=blue)
+![](https://komarev.com/ghpvc/?username=mpsdecamargo&color=blue)
 
 
 <h3 align="left">Languages and Tools:</h3>
