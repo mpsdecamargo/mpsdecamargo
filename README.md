@@ -7,6 +7,8 @@
 
 ![](https://komarev.com/ghpvc/?username=mpsdecamargo&color=blue)
 
+[My Data Science and Machine Learning Portfolio (In Progress)](https://github.com/mpsdecamargo/ml-data-science-portfolio)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
